@@ -1,0 +1,183 @@
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce.Form1.resources
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.Properties.Resources.resources
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\bin\Debug\BarcodeReader_ce_CF2.exe
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\bin\Debug\BarcodeReader_ce_CF2.pdb
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\bin\Debug\Intermec.DataCollection.CF2.dll
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\bin\Debug\Intermec.DataCollection.CF2.xml
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.exe
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.pdb
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\bin\Debug\BackgroundWorker.dll
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.setup.resources
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\bin\Debug\config.txt
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\bin\Debug\BarcodeReader_ce_CF2.exe.config
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\bin\Debug\alarm.wav
+C:\Program Files (x86)\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.pass.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\bin\Debug\alarm.wav
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\bin\Debug\config.txt
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\bin\Debug\BarcodeReader_ce_CF2.exe.config
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\bin\Debug\BarcodeReader_ce_CF2.exe
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\bin\Debug\BarcodeReader_ce_CF2.pdb
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\bin\Debug\Intermec.DataCollection.CF2.xml
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.pass.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.setup.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.exe
+C:\Documents and Settings\Administrator\Desktop\New Folder\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.pdb
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\alarm.wav
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\BarcodeReader_ce_CF2.exe.config
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\BarcodeReader_ce_CF2.exe
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\BarcodeReader_ce_CF2.pdb
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\BackgroundWorker.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Intermec.DataCollection.CF2.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Intermec.DataCollection.CF2.xml
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce.Form1.resources
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.pass.resources
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.setup.resources
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.Properties.Resources.resources
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce.csproj.GenerateResource.Cache
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.exe
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\obj\Debug\BarcodeReader_ce_CF2.pdb
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Microsoft.WindowsMobile.Configuration.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Microsoft.WindowsMobile.Configuration.xml
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Intermec.Communication.WLAN.80211api_net.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\Intermec.Communication.WLAN.80211pm_net.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\OpenNETCF.Net.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\OpenNETCF.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\alarm.wav
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\BarcodeReader_ce_CF2.exe.config
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\BarcodeReader_ce_CF2.exe
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\BarcodeReader_ce_CF2.pdb
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\BackgroundWorker.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Intermec.Communication.WLAN.80211api_net.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Intermec.Communication.WLAN.80211pm_net.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Intermec.DataCollection.CF2.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Microsoft.WindowsMobile.Configuration.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\OpenNETCF.Net.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\OpenNETCF.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Intermec.DataCollection.CF2.xml
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\Microsoft.WindowsMobile.Configuration.xml
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\obj\Debug\BarcodeReader_ce.Form1.resources
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\obj\Debug\BarcodeReader_ce_CF2.pass.resources
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\obj\Debug\BarcodeReader_ce_CF2.setup.resources
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\obj\Debug\BarcodeReader_ce_CF2.Properties.Resources.resources
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\obj\Debug\BarcodeReader_ce.csproj.GenerateResource.Cache
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\obj\Debug\BarcodeReader_ce_CF2.exe
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\obj\Debug\BarcodeReader_ce_CF2.pdb
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\alarm2.wav
+C:\Users\Kubik\Documents\Praca\zkw\c#\bcr\BarcodeReader_ce_CF2 zaloha 1\bin\Debug\config.txt
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\bin\Debug\alarm.wav
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\bin\Debug\alarm2.wav
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\bin\Debug\BarcodeReader_ce_CF2.exe.config
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\bin\Debug\BarcodeReader_ce_CF2.exe
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\bin\Debug\BarcodeReader_ce_CF2.pdb
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\bin\Debug\Intermec.Communication.WLAN.80211api_net.dll
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\bin\Debug\Intermec.Communication.WLAN.80211pm_net.dll
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\bin\Debug\Intermec.DataCollection.CF2.dll
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\bin\Debug\System.Data.SqlClient.dll
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\bin\Debug\Intermec.DataCollection.CF2.xml
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\obj\Debug\BarcodeReader_ce_CF2.db.resources
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\obj\Debug\BarcodeReader_ce.Form1.resources
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\obj\Debug\BarcodeReader_ce_CF2.pass.resources
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\obj\Debug\BarcodeReader_ce_CF2.setup.resources
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\obj\Debug\BarcodeReader_ce_CF2.Properties.Resources.resources
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\obj\Debug\BarcodeReader_ce.csproj.GenerateResource.Cache
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\obj\Debug\BarcodeReader_ce_CF2.exe
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.4\obj\Debug\BarcodeReader_ce_CF2.pdb
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\obj\Debug\BarcodeReader_ce_CF2.db.resources
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\obj\Debug\BarcodeReader_ce.Form1.resources
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\obj\Debug\BarcodeReader_ce_CF2.pass.resources
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\obj\Debug\BarcodeReader_ce_CF2.setup.resources
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\obj\Debug\BarcodeReader_ce_CF2.Properties.Resources.resources
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\obj\Debug\BarcodeReader_ce.csproj.GenerateResource.Cache
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\obj\Debug\BarcodeReader_ce_CF2.exe
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\bin\Debug\alarm.wav
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\bin\Debug\alarm2.wav
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\bin\Debug\BarcodeReader_ce_CF2.exe.config
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\bin\Debug\BarcodeReader_ce_CF2.exe
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\bin\Debug\BarcodeReader_ce_CF2.pdb
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\bin\Debug\Intermec.Communication.WLAN.80211api_net.dll
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\bin\Debug\Intermec.Communication.WLAN.80211pm_net.dll
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\bin\Debug\Intermec.DataCollection.CF2.dll
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\bin\Debug\System.Data.SqlClient.dll
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\bin\Debug\Intermec.DataCollection.CF2.xml
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\obj\Debug\BarcodeReader_ce_CF2.pdb
+C:\Program Files\Intermec\Developer Library\Data Collection Resource Kit\Examples\C#\DataCollection\VS2008\Copy of BarcodeReader_ce_CF2 1.6\bin\Debug\config.txt
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\bin\Debug\alarm.wav
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\bin\Debug\alarm2.wav
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\bin\Debug\config.txt
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\bin\Debug\BarcodeReader_ce_CF2.exe.config
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\bin\Debug\BarcodeReader_ce_CF2.exe
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\bin\Debug\BarcodeReader_ce_CF2.pdb
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\bin\Debug\Intermec.Communication.WLAN.80211api_net.dll
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\bin\Debug\Intermec.Communication.WLAN.80211pm_net.dll
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\bin\Debug\Intermec.DataCollection.CF2.dll
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\bin\Debug\System.Data.SqlClient.dll
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\bin\Debug\Intermec.DataCollection.CF2.xml
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.db.resources
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.pass.resources
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.setup.resources
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.exe
+C:\Documents and Settings\Administrator\My Documents\ZKW\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.pdb
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\alarm.wav
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\alarm2.wav
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\config.txt
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\BarcodeReader_ce_CF2.exe.config
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\BarcodeReader_ce_CF2.exe
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\BarcodeReader_ce_CF2.pdb
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\System.Data.SqlClient.dll
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\Intermec.DataCollection.CF2.xml
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\ResolveAssemblyReference.cache
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.db.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce.Form1.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.pass.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.setup.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.Properties.Resources.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce.csproj.GenerateResource.Cache
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.exe
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 08.11.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.pdb
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\ResolveAssemblyReference.cache
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.db.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce.Form1.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.pass.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.setup.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.Properties.Resources.resources
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce.csproj.GenerateResource.Cache
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.exe
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\alarm.wav
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\alarm2.wav
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\config.txt
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\BarcodeReader_ce_CF2.exe.config
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\BarcodeReader_ce_CF2.exe
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\BarcodeReader_ce_CF2.pdb
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\System.Data.SqlClient.dll
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\bin\Debug\Intermec.DataCollection.CF2.xml
+D:\duracer\Desktop\aktualne projekty\SynologyDrive\#ZKW_REGALY\READER\READER 21.12.2022\BarcodeReader_ce_CF2 1.6b\obj\Debug\BarcodeReader_ce_CF2.pdb

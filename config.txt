@@ -1,0 +1,15 @@
+﻿10.0.0.45
+2000
+2004
+1111
+2543
+15000
+5
+False
+server=10.0.0.45,40193;database=zkwPBL;User Id=nasask;Password=nasask
+3
+
+
+
+
+
